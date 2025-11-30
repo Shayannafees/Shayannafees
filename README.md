@@ -1,24 +1,24 @@
 Hi there, I'm Shayan Nafees! 👋
-I'm a passionate Front-End Developer with expertise in Angular, HTML, CSS, TypeScript, and JavaScript. I love turning ideas into interactive and visually appealing web applications.
+Passionate Front-End Developer specializing in Angular, HTML, CSS, TypeScript & JavaScript. I love turning ideas into interactive, visually appealing web apps.
 
 🚀 Quick Facts
-💻 Currently working on exciting projects using Angular.
-🌱 Always learning and exploring new front-end technologies.
-🎓 Computer Science student with a focus on web development.
+💻 Building exciting projects using Angular
+🌱 Constantly learning new technologies
+🎓 CS student focused on software development
+
 🛠️ Tech Stack
-Languages: HTML, CSS, TypeScript, JavaScript
+Languages: HTML, CSS, TypeScript, JavaScript, 
 Framework: Angular
-Other Skills: Responsive Design, Front-End Architecture
+Tools & Platforms: Docker, Linux, Git, Front-End Architecture, Responsive Design
+
 🌐 Connect with Me
 LinkedIn: Muhammad Shayan Nafees
+www.linkedin.com/in/shayan7
+
 🤝 Open to Collaboration
-I'm open to collaborating on interesting projects and contributing to the developer community. If you have a project or idea you'd like to discuss, feel free to reach out!
+I’m happy to collaborate on projects and contribute to the dev community.
 
-📫 How to Reach Me
-📧 Email: shayannafees9586@gmail.com
-"Thank you for your visit! 😊"
+📫 Contact
+Email: shayannafees9586@gmail.com
 
-
-
-
-
+"Thanks for stopping by! 😊 ⭐
